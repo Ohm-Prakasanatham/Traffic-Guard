@@ -1,0 +1,40 @@
+﻿Date,Time,Weather,Temperature,Precipitation,Event,Traffic_Jam,Road_Type,Visibility,Wind_Speed,Holiday,AQI,Location
+01-11-2021,08:00,Sunny,20°C,0 mm,None,0,Highway,10 km,15 km/h,0,45,Chennai
+01-11-2021,12:00,Cloudy,22°C,0 mm,None,0,Urban,5 km,10 km/h,0,58,Coimbatore
+01-11-2021,17:00,Rainy,16°C,5 mm,Accident,1,Suburban,2 km,20 km/h,0,75,Madurai
+02-11-2021,08:00,Sunny,21°C,0 mm,None,0,Urban,8 km,12 km/h,0,42,Chennai
+02-11-2021,12:00,Cloudy,23°C,0 mm,Sporting Event,1,Highway,6 km,10 km/h,1,65,Coimbatore
+02-11-2021,17:00,Rainy,17°C,6 mm,Construction,1,Urban,3 km,18 km/h,0,78,Madurai
+03-11-2021,08:00,Sunny,22°C,0 mm,None,0,Highway,10 km,15 km/h,0,48,Chennai
+03-11-2021,12:00,Cloudy,24°C,0 mm,None,0,Urban,6 km,12 km/h,0,62,Coimbatore
+03-11-2021,17:00,Rainy,18°C,7 mm,Accident,1,Suburban,3 km,22 km/h,0,80,Madurai
+04-11-2021,08:00,Sunny,23°C,0 mm,None,0,Urban,7 km,14 km/h,0,46,Chennai
+04-11-2021,12:00,Cloudy,25°C,0 mm,Sporting Event,1,Highway,7 km,11 km/h,1,68,Coimbatore
+04-11-2021,17:00,Rainy,19°C,8 mm,Construction,1,Urban,4 km,20 km/h,0,82,Madurai
+05-11-2021,08:00,Foggy,14°C,4 mm,Parade,1,Rural,1 km,5 km/h,1,88,Chennai
+05-11-2021,12:00,Snowy,-2°C,12 mm,Road Closure,1,Mountain,0.5 km,8 km/h,0,120,Coimbatore
+05-11-2021,17:00,Thunder,29°C,0 mm,Sporting Event,1,Urban,4 km,15 km/h,0,60,Madurai
+06-11-2021,08:00,Rainy,22°C,8 mm,Construction,1,Highway,7 km,12 km/h,0,55,Chennai
+06-11-2021,12:00,Sunny,26°C,0 mm,None,0,Urban,6 km,11 km/h,1,70,Coimbatore
+06-11-2021,17:00,Hail,13°C,16 mm,Accident,1,Suburban,1 km,18 km/h,0,100,Madurai
+07-11-2021,08:00,Snowy,1°C,20 mm,Road Closure,1,Mountain,0.4 km,7 km/h,1,130,Chennai
+07-11-2021,12:00,Sunny,25°C,0 mm,None,0,Urban,7 km,13 km/h,0,48,Coimbatore
+07-11-2021,17:00,Thunder,28°C,0 mm,Sporting Event,1,Suburban,3 km,16 km/h,0,72,Madurai
+08-11-2021,08:00,Sunny,24°C,0 mm,None,0,Highway,9 km,14 km/h,0,42,Chennai
+08-11-2021,12:00,Cloudy,22°C,0 mm,None,0,Urban,6 km,11 km/h,0,58,Coimbatore
+08-11-2021,17:00,Rainy,18°C,5 mm,Sporting Event,1,Suburban,3 km,17 km/h,1,75,Madurai
+09-11-2021,08:00,Sunny,27°C,0 mm,None,0,Highway,10 km,16 km/h,0,40,Chennai
+09-11-2021,12:00,Cloudy,23°C,0 mm,None,0,Urban,6 km,11 km/h,0,65,Coimbatore
+09-11-2021,17:00,Rainy,17°C,5 mm,Accident,1,Suburban,2 km,20 km/h,0,78,Madurai
+10-11-2021,08:00,Sunny,21°C,0 mm,None,0,Urban,8 km,12 km/h,0,42,Chennai
+10-11-2021,12:00,Cloudy,23°C,0 mm,Sporting Event,1,Highway,6 km,10 km/h,1,65,Coimbatore
+10-11-2021,17:00,Rainy,17°C,5 mm,Accident,1,Suburban,2 km,20 km/h,0,78,Madurai
+11-11-2021,08:00,Foggy,15°C,4 mm,Parade,1,Rural,1 km,5 km/h,1,88,Chennai
+11-11-2021,12:00,Snowy,-1°C,13 mm,Road Closure,1,Mountain,0.5 km,8 km/h,0,120,Coimbatore
+11-11-2021,17:00,Thunder,30°C,0 mm,Sporting Event,1,Urban,4 km,15 km/h,0,60,Madurai
+12-11-2021,08:00,Rainy,23°C,9 mm,Construction,1,Highway,7 km,12 km/h,0,55,Chennai
+12-11-2021,12:00,Sunny,27°C,0 mm,None,0,Urban,6 km,11 km/h,1,70,Coimbatore
+12-11-2021,17:00,Hail,12°C,17 mm,Accident,1,Suburban,1 km,18 km/h,0,100,Madurai
+13-11-2021,08:00,Snowy,-2°C,18 mm,Road Closure,1,Mountain,0.4 km,7 km/h,1,130,Chennai
+13-11-2021,12:00,Sunny,26°C,0 mm,None,0,Urban,7 km,13 km/h,0,48,Coimbatore
+13-11-2021,17:00,Thunder,29°C,0 mm,Sporting Event,1,Suburban,3 km,16 km/h,0,72,Madurai

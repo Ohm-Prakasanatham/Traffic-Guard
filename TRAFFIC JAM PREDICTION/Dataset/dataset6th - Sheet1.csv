@@ -1,0 +1,129 @@
+Date,Time,Arrival_Place,Departure_Place,Via,Traffic_Speed,Traffic_Volume,Traffic_Jam_Label,Weather_Atmosphere,Weather_Condition,Event_Type
+01/10/2022,08:00:00,Chennai,Tiruvallur,Chennai - Tiruthani - Renigunta Road (Old NH205),60.00,300.00,Low,Clear,Sunny,No Event
+01/10/2022,12:00:00,Chennai,Tiruvallur,Chennai - Tiruthani - Renigunta Road (Old NH205),65.00,320.00,Low,Clear,Sunny,No Event
+01/10/2022,16:00:00,Chennai,Tiruvallur,Chennai - Tiruthani - Renigunta Road (Old NH205),55.00,280.00,Medium,Partly Cloudy,Windy,No Event
+01/10/2022,20:00:00,Chennai,Tiruvallur,Chennai - Tiruthani - Renigunta Road (Old NH205),45.00,250.00,High,Rain,Stormy,Construction on Chennai - Tiruvallur Road
+02/10/2022,08:00:00,Arni,Tiruvallur,Arni - Tiruvallur Road,40.00,450.00,Medium,Light Rain,Drizzle,Traffic Accident
+02/10/2022,12:00:00,Arni,Tiruvallur,Arni - Tiruvallur Road,45.00,480.00,Medium,Light Rain,Drizzle,No Event
+02/10/2022,16:00:00,Arni,Tiruvallur,Arni - Tiruvallur Road,50.00,510.00,Medium,Light Rain,Drizzle,No Event
+02/10/2022,20:00:00,Arni,Tiruvallur,Arni - Tiruvallur Road,55.00,540.00,Low,Clear,Sunny,Breast Cancer Awareness Month
+03/10/2022,08:00:00,Thiruvathipuram,Karur,Thiruvathipuram - Karur Road,35.00,250.00,High,Partly Cloudy,Windy,No Event
+03/10/2022,12:00:00,Thiruvathipuram,Karur,Thiruvathipuram - Karur Road,40.00,280.00,Medium,Partly Cloudy,Windy,No Event
+03/10/2022,16:00:00,Thiruvathipuram,Karur,Thiruvathipuram - Karur Road,45.00,310.00,Medium,Partly Cloudy,Windy,Mental Health Awareness Week
+03/10/2022,20:00:00,Thiruvathipuram,Karur,Thiruvathipuram - Karur Road,50.00,340.00,Low,Clear,Sunny,World Food Day
+04/10/2022,08:00:00,Mettur,Dindigul,Mettur High Level Link Bridge,60.00,300.00,Low,Clear,Sunny,International Day of the Girl Child
+04/10/2022,12:00:00,Dindigul,Dharmapuri,Dindigul - Vathalagundu - Theni (Old NH45),65.00,320.00,Low,Clear,Sunny,Dussehra Processions
+04/10/2022,16:00:00,Cochin,Mettur,Cochin – Madurai - Dhanushkodi Road (Old NH49),55.00,280.00,Medium,Partly Cloudy,Windy,World Arthritis Day
+04/10/2022,20:00:00,Chennai,Karur,Chennai - Chittoor - Bangalore Road (Old NH4),45.00,250.00,High,Rain,Stormy,World AIDS Day
+05/10/2022,08:00:00,Bhavani,Chengalpattu,Bhavani - Komarapalayam Road,40.00,450.00,Medium,Light Rain,Drizzle,World Student's Day
+05/10/2022,12:00:00,Chennai,Trichy,Chennai - Trichy - Dindugal Road (Old NH45),45.00,480.00,Medium,Light Rain,Drizzle,World Mental Health Day
+05/10/2022,16:00:00,Chennai,Chengalpattu,Chennai - Trichy - Dindugal Road (Old NH45),50.00,510.00,Medium,Light Rain,Drizzle,International Day for the Eradication of Poverty
+05/10/2022,20:00:00,Chennai,Trichy,Chennai - Trichy - Dindugal Road (Old NH45),55.00,540.00,Low,Clear,Sunny,Vigilance Awareness Week
+06/10/2022,08:00:00,Chinthamani,Trichy,Chinthamani Bypass Road,35.00,250.00,High,Partly Cloudy,Windy,International Stuttering Awareness Day
+06/10/2022,12:00:00,Collector Bungalow,Salem,Collector Bungalow - Adivaram Road,40.00,280.00,Medium,Partly Cloudy,Windy,Down Syndrome Awareness Month
+06/10/2022,16:00:00,Old Bangalore,Villupuram,Old Bangalore - Salem - Madurai Road,45.00,310.00,Medium,Partly Cloudy,Windy,National Wildlife Week
+06/10/2022,20:00:00,Grand Northern Trunk Road,Edappadi,Grand Northern Trunk Road (Old NH5),50.00,340.00,Low,Clear,Sunny,World Architecture Day
+04/10/2022,08:00:00,Mettur,Dindigul,Mettur High Level Link Bridge,60.00,300.00,Low,Clear,Sunny,International Day of the Girl Child
+04/10/2022,12:00:00,Dindigul,Dharmapuri,Dindigul - Vathalagundu - Theni (Old NH45),65.00,320.00,Low,Clear,Sunny,Dussehra Processions
+04/10/2022,16:00:00,Cochin,Mettur,Cochin – Madurai - Dhanushkodi Road (Old NH49),55.00,280.00,Medium,Partly Cloudy,Windy,World Arthritis Day
+04/10/2022,20:00:00,Chennai,Karur,Chennai - Chittoor - Bangalore Road (Old NH4),45.00,250.00,High,Rain,Stormy,World AIDS Day
+07/10/2022,08:00:00,Chennai,Trichy,Chennai - Trichy - Dindugal Road,60.00,300.00,Low,Clear,Sunny,International Day of the Girl Child
+07/10/2022,12:00:00,Chennai,Dharmapuri,Chennai - Trichy - Dindugal Road,65.00,320.00,Low,Clear,Sunny,Dussehra Processions
+07/10/2022,16:00:00,Chennai,Edappadi,Chennai - Trichy - Dindugal Road,55.00,280.00,Medium,Partly Cloudy,Windy,World Arthritis Day
+07/10/2022,20:00:00,Chennai,Tiruvallur,Chennai - Trichy - Dindugal Road,45.00,250.00,High,Rain,Stormy,World AIDS Day
+08/10/2022,08:00:00,Varanasi,Salem,Varanasi - Kanniyakumari Road,40.00,450.00,Medium,Light Rain,Drizzle,World Student's Day
+08/10/2022,12:00:00,Varanasi,Karur,Varanasi - Kanniyakumari Road,45.00,480.00,Medium,Light Rain,Drizzle,World Mental Health Day
+08/10/2022,16:00:00,Varanasi,Virudhunagar,Varanasi - Kanniyakumari Road,50.00,510.00,Medium,Light Rain,Drizzle,International Day for the Eradication of Poverty
+08/10/2022,20:00:00,Varanasi,Trichy,Varanasi - Kanniyakumari Road,55.00,540.00,Low,Clear,Sunny,Vigilance Awareness Week
+09/10/2022,08:00:00,Bhavani,Karur,Bhavani - Komarapalayam Road,35.00,250.00,High,Partly Cloudy,Windy,International Stuttering Awareness Day
+09/10/2022,12:00:00,Bhavani,Villupuram,Bhavani - Komarapalayam Road,40.00,280.00,Medium,Partly Cloudy,Windy,Down Syndrome Awareness Month
+09/10/2022,16:00:00,Bhavani,Tirunelveli,Bhavani - Komarapalayam Road,45.00,310.00,Medium,Partly Cloudy,Windy,National Wildlife Week
+09/10/2022,20:00:00,Bhavani,Trichy,Bhavani - Komarapalayam Road,50.00,340.00,Low,Clear,Sunny,World Architecture Day
+10/10/2022,08:00:00,Chennai,Chengalpattu,Chennai - Chittoor - Bangalore Road,55.00,280.00,Medium,Partly Cloudy,Windy,International Coffee Day
+10/10/2022,12:00:00,Chennai,Chengalpattu,Chennai - Chittoor - Bangalore Road,45.00,250.00,High,Rain,Stormy,World Heart Day
+07/10/2022,16:00:00,Chennai,Trichy,Chennai - Trichy - Dindugal Road,60.00,300.00,Low,Clear,Sunny,International Day of the Girl Child
+07/10/2022,20:00:00,Chennai,Dharmapuri,Chennai - Trichy - Dindugal Road,65.00,320.00,Low,Clear,Sunny,Dussehra Processions
+11/10/2022,08:00:00,Collector Bungalow,Tiruvallur,Collector Bungalow - Adivaram Road,60.00,300.00,Low,Clear,Sunny,No Event
+11/10/2022,12:00:00,Collector Bungalow,Chengalpattu,Collector Bungalow - Adivaram Road,65.00,320.00,Low,Clear,Sunny,No Event
+11/10/2022,16:00:00,Collector Bungalow,Edappadi,Collector Bungalow - Adivaram Road,55.00,280.00,Medium,Partly Cloudy,Windy,Global Handwashing Day
+11/10/2022,20:00:00,Collector Bungalow,Dindigul,Collector Bungalow - Adivaram Road,45.00,250.00,High,Rain,Stormy,World Standards Day (Postponed)
+12/10/2022,08:00:00,Old Bangalore,Tiruvallur,Old Bangalore - Salem - Madurai Road,40.00,450.00,Medium,Light Rain,Drizzle,United Nations Day (Postponed)
+12/10/2022,12:00:00,Old Bangalore,Chengalpattu,Old Bangalore - Salem - Madurai Road,45.00,480.00,Medium,Light Rain,Drizzle,No Event
+12/10/2022,16:00:00,Old Bangalore,Chengalpattu,Old Bangalore - Salem - Madurai Road,50.00,510.00,Medium,Light Rain,Drizzle,International Day for the Eradication of Poverty
+12/10/2022,20:00:00,Old Bangalore,Chengalpattu,Old Bangalore - Salem - Madurai Road,55.00,540.00,Low,Clear,Sunny,United Nations Day for South-South Cooperation
+13/10/2022,08:00:00,Grand Northern Trunk,Tiruchirapalli,Grand Northern Trunk Road (Old NH5),35.00,250.00,High,Partly Cloudy,Windy,World Polio Day
+13/10/2022,12:00:00,Grand Northern Trunk,Palani,Grand Northern Trunk Road (Old NH5),40.00,280.00,Medium,Partly Cloudy,Windy,World Development Information Day (Postponed)
+13/10/2022,16:00:00,Grand Northern Trunk,Trichy,Grand Northern Trunk Road (Old NH5),45.00,310.00,Medium,Partly Cloudy,Windy,Lung Cancer Awareness Month (Postponed)
+13/10/2022,20:00:00,Grand Northern Trunk,Dharmapuri,Grand Northern Trunk Road (Old NH5),50.00,340.00,Low,Clear,Sunny,World Standards Day
+14/10/2022,08:00:00,Salem,Chengalpattu,Salem - Cochin - Kanniyakumari Road (Old NH47),60.00,300.00,Low,Partly Cloudy,Sunny,No Event
+14/10/2022,12:00:00,Salem,Chengalpattu,Salem - Cochin - Kanniyakumari Road (Old NH47),65.00,320.00,Low,Clear,Sunny,No Event
+14/10/2022,16:00:00,Salem,Chengalpattu,Salem - Cochin - Kanniyakumari Road (Old NH47),55.00,280.00,Medium,Sunny,Postponed: Global Handwashing Day,
+14/10/2022,20:00:00,Salem,Chengalpattu,Salem - Cochin - Kanniyakumari Road (Old NH47),45.00,250.00,High,Rain,Stormy,World Standards Day
+15/10/2022,08:00:00,Krishnagiri,Trichy,Krishnagiri - Ranipet Road (Old NH46),40.00,450.00,Medium,Light Rain,Drizzle,International Day for the Eradication of Poverty
+15/10/2022,12:00:00,Krishnagiri,Trichy,Krishnagiri - Ranipet Road (Old NH46),45.00,480.00,Medium,Light Rain,Stormy,No Event
+15/10/2022,16:00:00,Krishnagiri,Trichy,Krishnagiri - Ranipet Road (Old NH46),50.00,510.00,Medium,Light Rain,Drizzle,Postponed: United Nations Day
+15/10/2022,20:00:00,Krishnagiri,Trichy,Krishnagiri - Ranipet Road (Old NH46),55.00,540.00,Low,Clear,Sunny,Postponed: National Cybersecurity Awareness Month
+16/10/2022,08:00:00,Kochi,Palani,Kochi - Madurai - Dhanushkodi Road (Old NH49),35.00,250.00,High,Partly Cloudy,Windy,Lung Cancer Awareness Month
+16/10/2022,12:00:00,Kochi,Palani,Kochi - Madurai - Dhanushkodi Road (Old NH49),40.00,280.00,Medium,Partly Cloudy,Windy,World Development Information Day
+16/10/2022,16:00:00,Kochi,Palani,Kochi - Madurai - Dhanushkodi Road (Old NH49),45.00,310.00,Medium,Partly Cloudy,Windy,Postponed: United Nations Day for South-South Cooperation
+16/10/2022,20:00:00,Kochi,Palani,Kochi - Madurai - Dhanushkodi Road (Old NH49),50.00,340.00,Low,Clear,Sunny,Breast Cancer Awareness Month
+17/10/2022,08:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),60.00,300.00,Low,Partly Cloudy,Sunny,Global Handwashing Day
+17/10/2022,12:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),65.00,320.00,Low,Clear,Sunny,World Standards Day
+17/10/2022,16:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),55.00,280.00,Medium,Partly Cloudy,Sunny,World Polio Day
+17/10/2022,20:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),45.00,250.00,High,Rain,Sunny,United Nations Day
+18/10/2022,08:00:00,Trichy,Edappadi,Trichy - Madurai - Tuticorin Road (Old NH45B),40.00,450.00,Medium,Light Rain,Windy,National Cybersecurity Awareness Month (Postponed)
+18/10/2022,12:00:00,Trichy,Edappadi,Trichy - Madurai - Tuticorin Road (Old NH45B),45.00,480.00,Medium,Light Rain,Windy,National Cybersecurity Awareness Month (Postponed)
+18/10/2022,16:00:00,Trichy,Edappadi,Trichy - Madurai - Tuticorin Road (Old NH45B),50.00,510.00,Medium,Light Rain,Windy,National Cybersecurity Awareness Month (Postponed)
+18/10/2022,20:00:00,Trichy,Edappadi,Trichy - Madurai - Tuticorin Road (Old NH45B),55.00,540.00,Low,Clear,Sunny,World Polio Day
+19/10/2022,08:00:00,Mettur,Vellore,Mettur Branch Road,35.00,250.00,High,Partly Cloudy,Windy,Lung Cancer Awareness Month (Postponed)
+19/10/2022,12:00:00,Mettur,Vellore,Mettur Branch Road,40.00,280.00,Medium,Partly Cloudy,Windy,Lung Cancer Awareness Month (Postponed)
+19/10/2022,16:00:00,Mettur,Vellore,Mettur Branch Road,45.00,310.00,Medium,Partly Cloudy,Windy,Lung Cancer Awareness Month (Postponed)
+19/10/2022,20:00:00,Mettur,Vellore,Mettur Branch Road,50.00,340.00,Low,Clear,Sunny,World Development Information Day
+20/10/2022,08:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),60.00,300.00,Low,Clear,Sunny,Global Handwashing Day
+20/10/2022,12:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),65.00,320.00,Low,Clear,Sunny,World Standards Day
+20/10/2022,16:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),55.00,280.00,Medium,Partly Cloudy,Windy,International Day for the Eradication of Poverty
+20/10/2022,20:00:00,Varanasi,Dharmapuri,Varanasi - Kanniyakumari Road (Old NH7),45.00,250.00,High,Rain,Stormy,United Nations Day
+21/10/2022,08:00:00,Varanasi,Edappadi,Varanasi - Kanniyakumari Road (Old NH7),40.00,450.00,Medium,Light Rain,Drizzle,National Cybersecurity Awareness Month
+21/10/2022,12:00:00,Varanasi,Edappadi,Varanasi - Kanniyakumari Road (Old NH7),45.00,480.00,Medium,Light Rain,Drizzle,World Polio Day
+21/10/2022,16:00:00,Varanasi,Edappadi,Varanasi - Kanniyakumari Road (Old NH7),50.00,510.00,Medium,Light Rain,Drizzle,Lung Cancer Awareness Month
+21/10/2022,20:00:00,Varanasi,Edappadi,Varanasi - Kanniyakumari Road (Old NH7),55.00,540.00,Low,Clear,Sunny,World Development Information Day
+22/10/2022,08:00:00,Trichy,Namakkal,Trichy - Madurai - Tuticorin Road (Old NH45B),35.00,250.00,High,Partly Cloudy,Windy,United Nations Day for South-South Cooperation
+22/10/2022,12:00:00,Trichy,Krishnagiri,Trichy - Madurai - Tuticorin Road (Old NH45B),40.00,280.00,Medium,Partly Cloudy,Windy,Breast Cancer Awareness Month
+22/10/2022,16:00:00,Trichy,Vellore,Trichy - Madurai - Tuticorin Road (Old NH45B),45.00,310.00,Medium,Partly Cloudy,Windy,Mental Health Awareness Week
+22/10/2022,20:00:00,Trichy,Sivagangai,Trichy - Madurai - Tuticorin Road (Old NH45B),50.00,340.00,Low,Clear,Sunny,World Food Day
+24/10/2022,08:00:00,Palayamkottai,Tuticorin,Palayamkottai - Tuticorin Port Road (Old NH7A),60.00,300.00,Low,Clear,Sunny,International Stuttering Awareness Day
+24/10/2022,12:00:00,Palayamkottai,Tuticorin,Palayamkottai - Tuticorin Port Road (Old NH7A),65.00,320.00,Low,Clear,Sunny,Down Syndrome Awareness Month
+24/10/2022,16:00:00,Palayamkottai,Tuticorin,Palayamkottai - Tuticorin Port Road (Old NH7A),55.00,280.00,Medium,Partly Cloudy,Windy,National Wildlife Week
+24/10/2022,20:00:00,Palayamkottai,Tuticorin,Palayamkottai - Tuticorin Port Road (Old NH7A),45.00,250.00,High,Rain,Stormy,World Architecture Day
+25/10/2022,08:00:00,Pennaiyar Bridge Approach Road,Tirunelveli,Pennaiyar Bridge Approach Road,40.00,450.00,Medium,Light Rain,Drizzle,International Coffee Day
+25/10/2022,12:00:00,Pennaiyar Bridge Approach Road,Tirunelveli,Pennaiyar Bridge Approach Road,45.00,480.00,Medium,Light Rain,No Event,World Heart Day
+25/10/2022,16:00:00,Pennaiyar Bridge Approach Road,Tirunelveli,Pennaiyar Bridge Approach Road,50.00,510.00,Medium,Light Rain,Drizzle,World Heart Day
+25/10/2022,20:00:00,Pennaiyar Bridge Approach Road,Tirunelvelveli,Pennaiyar Bridge Approach Road,55.00,540.00,Low,Clear,Sunny,World Vegetarian Day
+26/10/2022,08:00:00,Periyar Memorial Pillar,Karur,Periyar Memorial Pillar - Kenikkarai Road,35.00,250.00,High,Partly Cloudy,Windy,World Habitat Day
+26/10/2022,12:00:00,Periyar Memorial Pillar,Karur,Periyar Memorial Pillar - Kenikkarai Road,40.00,280.00,Medium,Partly Cloudy,Windy,Mental Illness Awareness Week
+26/10/2022,16:00:00,Periyar Memorial Pillar,Karur,Periyar Memorial Pillar - Kenikkarai Road,45.00,310.00,Medium,Partly Cloudy,Windy,Domestic Violence Awareness Month
+26/10/2022,20:00:00,Periyar Memorial Pillar,Karur,Periyar Memorial Pillar - Kenikkarai Road,50.00,340.00,Low,Clear,Sunny,World Post Day
+27/10/2022,08:00:00,Collector Bungalow,Dharmapuri,Collector Bungalow - Adivaram Road,60.00,300.00,Low,Clear,Sunny,International Stuttering Awareness Day
+27/10/2022,12:00:00,Old Bangalore,Dharmapuri,Old Bangalore - Salem - Madurai Road,65.00,320.00,Low,Clear,Sunny,Down Syndrome Awareness Month
+27/10/2022,16:00:00,Grand Northern Trunk Road,Edappadi,Grand Northern Trunk Road (Old NH5),55.00,280.00,Medium,Partly Cloudy,Windy,National Wildlife Week
+27/10/2022,20:00:00,Hasthampatty,Namakkal,Hasthampatty - Cherry Road,45.00,250.00,High,Rain,Stormy,World Architecture Day
+28/10/2022,08:00:00,Palayamkottai,Krishnagiri,Palayamkottai - Tuticorin Port Road (Old NH7A),40.00,450.00,Medium,Light Rain,Drizzle,International Coffee Day
+28/10/2022,12:00:00,Pennaiyar Bridge,Namakkal,Pennaiyar Bridge Approach Road,45.00,480.00,Medium,Light Rain,Drizzle,World Heart Day
+28/10/2022,16:00:00,Chennai,Dindigul,Chennai - Tiruthani - Renigunta Road (Old NH205),50.00,510.00,Medium,Light Rain,Drizzle,World Vegetarian Day
+28/10/2022,20:00:00,Arni,Vellore,Arni Bypass Road,55.00,540.00,Low,Clear,Sunny,World Habitat Day
+29/10/2022,08:00:00,Varanasi,Sivagangai,Varanasi - Kanniyakumari Road (Old NH7),35.00,250.00,High,Partly Cloudy,Windy,Mental Illness Awareness Week
+29/10/2022,12:00:00,Varanasi,Tuticorin,Varanasi - Kanniyakumari Road (Old NH7),40.00,280.00,Medium,Partly Cloudy,Windy,Domestic Violence Awareness Month
+29/10/2022,16:00:00,Karuppur,Tirunelveli,Karuppur Branch Road,45.00,310.00,Medium,Partly Cloudy,Windy,World Post Day
+29/10/2022,20:00:00,Salem,Tirunelveli,Salem - Cochin - Kanniyakumari Road (Old NH47),50.00,340.00,Low,Clear,Sunny,Global Handwashing Day
+30/10/2022,08:00:00,Dharmapuri,Tuticorin,Dharmapuri - Salem - Erode Road,60.00,300.00,Low,Clear,Sunny,Breast Cancer Awareness Month
+30/10/2022,12:00:00,Edappadi,Tirunelveli,Edappadi - Salem - Erode Road,65.00,320.00,Low,Clear,Sunny,Mental Health Awareness Week
+30/10/2022,16:00:00,Namakkal,Tirunelveli,Namakkal - Karur - Tiruchirapalli Road,55.00,280.00,Medium,Partly Cloudy,Windy,World Food Day
+30/10/2022,20:00:00,Krishnagiri,Tirunelveli,Krishnagiri - Ranipet Road,45.00,250.00,High,Rain,Stormy,International Day of the Girl Child
+31/10/2022,08:00:00,Vellore,Tirunelveli,Vellore - Arcot Road,40.00,450.00,Medium,Light Rain,Drizzle,Dussehra Processions
+31/10/2022,12:00:00,Sivagangai,Virudhunagar,Sivagangai - Karaikudi Road,45.00,480.00,Medium,Light Rain,Drizzle,World Arthritis Day
+31/10/2022,16:00:00,Tuticorin,Virudhunagar,Tuticorin - Nagapattinam Road,50.00,510.00,Medium,Light Rain,Drizzle,World AIDS Day
+31/10/2022,20:00:00,Tirunelveli,Virudhunagar,Tirunelveli - Thanjavur Road,55.00,540.00,Low,Clear,Sunny,World Student's Day
+01/11/2022,08:00:00,Tirunelveli,Edappadi,Tirunelveli - Kumbakonam Road,35.00,250.00,High,Partly Cloudy,Windy,World Mental Health Day
+01/11/2022,12:00:00,Virudhunagar,Edappadi,Virudhunagar - Krishnagiri Road,40.00,280.00,Medium,Partly Cloudy,Windy,International Day for the Eradication of Poverty
+01/11/2022,16:00:00,Virudhunagar,Theni,Virudhunagar - Kumbakonam Road,45.00,310.00,Medium,Partly Cloudy,Windy,Vigilance Awareness Week
+30/10/2022,20:00:00,Dharmapuri,Tuticorin,Dharmapuri - Salem - Erode Road,60.00,300.00,Low,Clear,Sunny,Breast Cancer Awareness Month
